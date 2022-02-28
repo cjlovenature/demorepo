@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(
-    name='toolbox',
+    name='demorepo',
     version='0.0.1',
     author='chandan jha',
     author_email='cjlovenature@gmail.com',
